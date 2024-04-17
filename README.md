@@ -62,6 +62,9 @@ Here are 20 novel use cases for the wiser minimal VMM (Virtual Machine Manager) 
 *    Minimal virtualization for mobile devices: Integrate wiser into mobile devices to enable lightweight virtualization and isolation of different mobile applications or services.
 *    Virtualized network simulators: Utilize wiser to create lightweight virtualized network simulators for testing and evaluating network protocols and topologies.
 
+## See also
+
+https://news.ycombinator.com/item?id=10782897
 
 ## References
 * https://github.com/kvmtool/kvmtool
